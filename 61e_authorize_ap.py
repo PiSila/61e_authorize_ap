@@ -6,6 +6,7 @@
 # AP's, authorisiert neue AP's und setzt das AP Profil
 # Lars Kähler
 # 17.07.2024 
+# 
 #########################################################
 
 import requests, sys
